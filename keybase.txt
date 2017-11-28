@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/fanofhacking
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kchaitanya.com
+  * I am fanofhacking (https://keybase.io/fanofhacking) on keybase.
+  * I have a public key ASDrxHax4GbtWjHftVNR5TJ31E_DtY29uiNqI2YpLovW6wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ebc476b1e066ed5a31dfb55351e53277d44fc3b58dbdba236a2366292e8bd6eb0a",
+      "host": "keybase.io",
+      "kid": "0120ebc476b1e066ed5a31dfb55351e53277d44fc3b58dbdba236a2366292e8bd6eb0a",
+      "uid": "cec8558d4af2c0eeaa6f2f85f61ea919",
+      "username": "fanofhacking"
+    },
+    "merkle_root": {
+      "ctime": 1511896407,
+      "hash": "15af4a649ff3755333fd5dbe076304f9b6fe64538b97499bfee28b9108a5e97e1eef9c09292b2b29383f7d6d1730b88dfc0ef8f261cdefa0ed7960e1490514d4",
+      "hash_meta": "ba8670590a92b43b7ea7a61750f8ec89d5d670065e4aeb7c0cbb30a3af27cd97",
+      "seqno": 1759439
+    },
+    "service": {
+      "hostname": "kchaitanya.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1511896441,
+  "expire_in": 504576000,
+  "prev": "a2dc472911e3105e88e76cd21547cfcec55a6f510686cd8e8e522a43c217f8b0",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg68R2seBm7Vox37VTUeUyd9RPw7WNvbojaiNmKS6L1usKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZWJjNDc2YjFlMDY2ZWQ1YTMxZGZiNTUzNTFlNTMyNzdkNDRmYzNiNThkYmRiYTIzNmEyMzY2MjkyZThiZDZlYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWJjNDc2YjFlMDY2ZWQ1YTMxZGZiNTUzNTFlNTMyNzdkNDRmYzNiNThkYmRiYTIzNmEyMzY2MjkyZThiZDZlYjBhIiwidWlkIjoiY2VjODU1OGQ0YWYyYzBlZWFhNmYyZjg1ZjYxZWE5MTkiLCJ1c2VybmFtZSI6ImZhbm9maGFja2luZyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMTg5NjQwNywiaGFzaCI6IjE1YWY0YTY0OWZmMzc1NTMzM2ZkNWRiZTA3NjMwNGY5YjZmZTY0NTM4Yjk3NDk5YmZlZTI4YjkxMDhhNWU5N2UxZWVmOWMwOTI5MmIyYjI5MzgzZjdkNmQxNzMwYjg4ZGZjMGVmOGYyNjFjZGVmYTBlZDc5NjBlMTQ5MDUxNGQ0IiwiaGFzaF9tZXRhIjoiYmE4NjcwNTkwYTkyYjQzYjdlYTdhNjE3NTBmOGVjODlkNWQ2NzAwNjVlNGFlYjdjMGNiYjMwYTNhZjI3Y2Q5NyIsInNlcW5vIjoxNzU5NDM5fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImtjaGFpdGFueWEuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUxMTg5NjQ0MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJhMmRjNDcyOTExZTMxMDVlODhlNzZjZDIxNTQ3Y2ZjZWM1NWE2ZjUxMDY4NmNkOGU4ZTUyMmE0M2MyMTdmOGIwIiwic2Vxbm8iOjUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAXq/ewnDb6P/r7Kvet2YEqtKqeSaSUBFQhgggvGfFDuJkHDARH8suujb2pNnY8OVG85FfwKW+qXy60aOnU518B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILyC/uv4/KXW0uGWMDw7iQce8dlIi5OjIKKtfq8jjHUKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fanofhacking
+
+==================================================================
